@@ -33,7 +33,7 @@
 
 ```html
 <div class="margin-top-20 logo">
-	My Text Inside
+    My Text Inside
 </div>
 ```
 
@@ -52,7 +52,7 @@
 
 ```html
 <select>
-	<option value="USA">United States</option>
+    <option value="USA">United States</option>
 </select>
 ```
 
@@ -72,7 +72,7 @@
 
 ```html
 <div class="header">
-	My Header
+    My Header
 </div>
 ```
 
@@ -81,8 +81,8 @@
 
 ```css
 .header {
-	font-size:20px;
-	background-color:blue;
+    font-size:20px;
+    background-color:blue;
 }
 ```
 
@@ -92,7 +92,7 @@ HTML
 
 ```html
 <div id="header">
-	My Header
+    My Header
 </div>
 ```
 
@@ -100,8 +100,8 @@ CSS
 
 ```css
 #header {
-	font-size:20px;
-	background-color:blue;
+    font-size:20px;
+    background-color:blue;
 }
 ```
 
@@ -144,7 +144,7 @@ CSS
 
 ```css
 div {
-	background-color:black;
+    background-color:black;
 }
 ```
 
@@ -152,7 +152,7 @@ div {
 
 ```css
 div {
-	background-color:#000000;
+    background-color:#000000;
 }
 ```
 
@@ -160,7 +160,7 @@ div {
 
 ```css
 div {
-	background-color:rgba(0,0,0,0.5);
+    background-color:rgba(0,0,0,0.5);
 }
 ```
 
@@ -222,7 +222,7 @@ alert(saying); //Gives us "Hey Arun!"
 Arrays allow us to be able to store a set of data in one place. Let's say we want to look up information about a particular user. An array of a user's information may look like this:
 
 ```javascript
-var arun = ["Arun", "Instructor", 27, "San Francisco"];
+var arun = ["Arun", "Sood", "Instructor", "San Francisco"];
 ```
 
 We can access pieces of this information through the index value:
@@ -236,7 +236,7 @@ Functions allow us to write code once and call it a number of times throughout o
 
 ```javascript
 function sayHello() {
-	alert("Hello World!");
+    alert("Hello World!");
 }
 ```
 
@@ -244,7 +244,7 @@ We can also pass in data to perform a dynamic operation:
 
 ```javascript
 function addTwo(num1, num2) {
-	alert(num1 + num2);
+    alert(num1 + num2);
 }
 ```
 
@@ -252,7 +252,7 @@ When using JavaScript to perform operations, you may need to `return` the data o
 
 ```javascript
 function addTwo(num1, num2) {
-	return num1 + num2;
+    return num1 + num2;
 }
 ```
 
@@ -270,7 +270,7 @@ Loops allow you to perform an operation a set number of times. This is very wide
 
 ```javascript
 for (var i = 0; i < 20; i++) {
-	console.log(i);
+    console.log(i);
 }
 ```
 
