@@ -126,7 +126,7 @@ CSS
 
 ## HTML Markup Lab
 
-- [Please refer to the project here](https://github.com/arun-projects/html_form)
+- [Please refer to the project here](https://github.com/arun-projects/HTML-Form)
 
 ## A Little More on CSS
 
