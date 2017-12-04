@@ -278,3 +278,14 @@ for (var i = 0; i < 20; i++) {
 
 - [TicTacToe](https://github.com/arun-projects/TicTacToe)
 - [Memory Game](https://github.com/arun-projects/Memory)
+
+## Deployment
+
+- To deploy your website you will need a server that can accept HTTP requests, and send back your HTML, CSS, and JavaScript.
+- There are many options, but here are some of the most popular:
+    - [Amazon Web Services](https://aws.amazon.com)
+    - [Rackspace](https://www.rackspace.com)
+    - [Digital Ocean](https://www.digitalocean.com)
+    - [Heroku](https://www.heroku.com)
+    - [BitBalloon](https://www.bitballoon.com)
+- We will be using BitBalloon to deploy our site.
